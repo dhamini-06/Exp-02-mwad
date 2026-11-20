@@ -1017,6 +1017,9 @@ footer p {
 
 ![alt text](3.png)
 
+<img width="1917" height="1140" alt="4" src="https://github.com/user-attachments/assets/ee36e756-134f-48c0-9234-4ccc24a2f1e2" />
+
+
 ![alt text](5.png)
 
 ![alt text](6.png)
